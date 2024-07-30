@@ -1,6 +1,6 @@
 Hi 👋!
 
-Welcome to my github profile. I'm Vicent, aka "the dude that uses a light theme", a Spaniard software developer with more than 5 years making stuff around the World Wide Web. I love GNU/Linux (I use Arch BTW), free software, and overcomplicate myself ricing my Neovim setup.
+Welcome to my github profile. I'm Vicent, aka "the dude that uses a light theme", a Spaniard software developer with more than 8 years making stuff around the World Wide Web. I love GNU/Linux (I use Arch BTW), free software, and overcomplicate myself ricing my Neovim setup.
 
 Since early 2020 I have professional experience working with hexagonal architecture, technical DDD, SOLID, design patterns... While I keep an open mind: sometimes the best solution is the simplest one (KISS 🤘😚). E‑commerce, warehouse management, ISP platform management, and IOT services are just some of the fields in which I’m experienced.
 
